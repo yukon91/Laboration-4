@@ -1,0 +1,2 @@
+C:\Users\Marti\OneDrive\Desktop\Labboration-4\Laboration-4-main\Northwind.Web\wwwroot\index.html
+wwwroot\index.html

@@ -1,0 +1,37 @@
+﻿@model Northwind.Mvc.Models.DetailsViewModel
+
+@{
+    ViewData["Title"] = @Model.MainCategory.CategoryName;
+}
+
+<div class="container my-5">
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <h2 class="card-title text-primary">@Model.MainCategory.CategoryName</h2>
+            <p class="card-text text-muted">@Model.MainCategory.Description</p>
+        </div>
+    </div>
+
+    @if (Model.MainCategory != null && Model.MainCategory.Products != null && Model.MainCategory.Products.Any())
+    {
+        <h4>Products in this category:</h4>
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+            @foreach (var product in Model.MainCategory.Products)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary">@product.ProductName</h5>
+                            <p class="card-text">
+                                <strong>Price:</strong> @product.UnitPrice?.ToString("C")<br />
+                                <strong>Units in Stock:</strong> @product.UnitsInStock<br />
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    <a href="@Url.Action("Index", "Home")" class="btn btn-primary mt-4">Back to Home</a>
+
+</div>

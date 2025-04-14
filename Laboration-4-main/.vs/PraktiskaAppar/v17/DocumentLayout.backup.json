@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|c:\\users\\marti\\onedrive\\desktop\\labboration-4\\laboration-4-main\\northwind.mvc\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|solutionrelative:northwind.mvc\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|c:\\users\\marti\\onedrive\\desktop\\labboration-4\\laboration-4-main\\northwind.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|solutionrelative:northwind.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|c:\\users\\marti\\onedrive\\desktop\\labboration-4\\laboration-4-main\\northwind.mvc\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|solutionrelative:northwind.mvc\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|c:\\users\\marti\\onedrive\\desktop\\labboration-4\\laboration-4-main\\northwind.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|solutionrelative:northwind.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|c:\\users\\marti\\onedrive\\desktop\\labboration-4\\laboration-4-main\\northwind.mvc\\models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|solutionrelative:northwind.mvc\\models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|c:\\users\\marti\\onedrive\\desktop\\labboration-4\\laboration-4-main\\northwind.mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|solutionrelative:northwind.mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|c:\\users\\marti\\onedrive\\desktop\\labboration-4\\laboration-4-main\\northwind.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|solutionrelative:northwind.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|c:\\users\\marti\\onedrive\\desktop\\labboration-4\\laboration-4-main\\northwind.mvc\\models\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|solutionrelative:northwind.mvc\\models\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|c:\\users\\marti\\onedrive\\desktop\\labboration-4\\laboration-4-main\\northwind.mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|solutionrelative:northwind.mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|c:\\users\\marti\\onedrive\\desktop\\labboration-4\\laboration-4-main\\northwind.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|solutionrelative:northwind.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|c:\\users\\marti\\onedrive\\desktop\\labboration-4\\laboration-4-main\\northwind.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67A4D6B8-6A66-4A35-B7B6-907819E0580A}|Northwind.Mvc\\Northwind.Mvc.csproj|solutionrelative:northwind.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "Northwind.Mvc\\Views\\Home\\ProductDetail.cshtml",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeToolTip": "Northwind.Mvc\\Views\\Home\\ProductDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T14:52:22.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Northwind.Mvc\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Northwind.Mvc\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:46:21.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "Northwind.Mvc\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "Northwind.Mvc\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T14:15:28.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Models\\Details.cs",
+              "RelativeDocumentMoniker": "Northwind.Mvc\\Models\\Details.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Models\\Details.cs",
+              "RelativeToolTip": "Northwind.Mvc\\Models\\Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:07:18.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Northwind.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Northwind.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwHAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:18:31.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Northwind.Mvc\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Models\\Category.cs",
+              "RelativeToolTip": "Northwind.Mvc\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:32:24.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Northwind.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Northwind.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T13:43:16.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Northwind.Mvc\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Northwind.Mvc\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-06T07:52:51.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Models\\Thing.cs",
+              "RelativeDocumentMoniker": "Northwind.Mvc\\Models\\Thing.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Models\\Thing.cs",
+              "RelativeToolTip": "Northwind.Mvc\\Models\\Thing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:24:51.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Northwind.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Northwind.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T11:28:03.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "Northwind.Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Mvc\\Program.cs",
+              "RelativeToolTip": "Northwind.Mvc\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:02:36.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "Hash": "NidTixD5adLQLsDPztSpVVJyUaCv77c4xNFIMD4ZQd8=",
+  "Source": "Northwind.Web",
+  "BasePath": "_content/Northwind.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj",
+      "Version": 2,
+      "Source": "Northwind.Razor.Employees",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind.Web\\wwwroot",
+      "Source": "Northwind.Web",
+      "ContentRoot": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\obj\\Debug\\net9.0\\compressed\\o5bqnqmed0-vof2rvul1b.gz",
+      "SourceId": "Northwind.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Northwind.Web",
+      "RelativePath": "index#[.{fingerprint=vof2rvul1b}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tezt3euikz",
+      "Integrity": "hZOLF8zOMI5M/MXFi1hFH9+cMmMoXmYOb5XepQDTz7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\wwwroot\\index.html",
+      "SourceId": "Northwind.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vof2rvul1b",
+      "Integrity": "EU2kwwRQsVfGmWb9ECorjPqr54C4PuKa+m7jjykZqTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\obj\\Debug\\net9.0\\compressed\\o5bqnqmed0-vof2rvul1b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001980198020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hZOLF8zOMI5M/MXFi1hFH9+cMmMoXmYOb5XepQDTz7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 07:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EU2kwwRQsVfGmWb9ECorjPqr54C4PuKa+m7jjykZqTY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EU2kwwRQsVfGmWb9ECorjPqr54C4PuKa+m7jjykZqTY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EU2kwwRQsVfGmWb9ECorjPqr54C4PuKa+m7jjykZqTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 07:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EU2kwwRQsVfGmWb9ECorjPqr54C4PuKa+m7jjykZqTY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\obj\\Debug\\net9.0\\compressed\\o5bqnqmed0-vof2rvul1b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hZOLF8zOMI5M/MXFi1hFH9+cMmMoXmYOb5XepQDTz7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 07:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hZOLF8zOMI5M/MXFi1hFH9+cMmMoXmYOb5XepQDTz7E="
+        }
+      ]
+    },
+    {
+      "Route": "index.vof2rvul1b.html",
+      "AssetFile": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\obj\\Debug\\net9.0\\compressed\\o5bqnqmed0-vof2rvul1b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001980198020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hZOLF8zOMI5M/MXFi1hFH9+cMmMoXmYOb5XepQDTz7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 07:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EU2kwwRQsVfGmWb9ECorjPqr54C4PuKa+m7jjykZqTY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vof2rvul1b"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EU2kwwRQsVfGmWb9ECorjPqr54C4PuKa+m7jjykZqTY="
+        }
+      ]
+    },
+    {
+      "Route": "index.vof2rvul1b.html",
+      "AssetFile": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EU2kwwRQsVfGmWb9ECorjPqr54C4PuKa+m7jjykZqTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 07:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vof2rvul1b"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EU2kwwRQsVfGmWb9ECorjPqr54C4PuKa+m7jjykZqTY="
+        }
+      ]
+    },
+    {
+      "Route": "index.vof2rvul1b.html.gz",
+      "AssetFile": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Web\\obj\\Debug\\net9.0\\compressed\\o5bqnqmed0-vof2rvul1b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hZOLF8zOMI5M/MXFi1hFH9+cMmMoXmYOb5XepQDTz7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 07:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vof2rvul1b"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hZOLF8zOMI5M/MXFi1hFH9+cMmMoXmYOb5XepQDTz7E="
+        }
+      ]
+    }
+  ]
+}
