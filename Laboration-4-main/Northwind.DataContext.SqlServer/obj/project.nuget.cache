@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SI9vNlhEFhQ=",
+  "dgSpecHash": "TzXJOctmRVw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.DataContext.SqlServer\\Northwind.DataContext.SqlServer.csproj",
+  "projectFilePath": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Labb4\\Laboration-4-main\\Northwind.DataContext.SqlServer\\Northwind.DataContext.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marti\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Marti\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

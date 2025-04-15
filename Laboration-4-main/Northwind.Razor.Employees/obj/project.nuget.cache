@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m//GecjW/F4=",
+  "dgSpecHash": "tGBs7H/HX2Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Laboration-4-main\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj",
+  "projectFilePath": "C:\\Users\\Marti\\OneDrive\\Desktop\\Labboration-4\\Labb4\\Laboration-4-main\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marti\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Marti\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
